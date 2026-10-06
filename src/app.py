@@ -38,6 +38,48 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Soccer Team": {
+        "category": "sports",
+        "description": "Practice teamwork, stamina, and soccer skills",
+        "schedule": "Wednesdays and Saturdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Basketball Club": {
+        "category": "sports",
+        "description": "Build basketball skills and play friendly games",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Art Studio": {
+        "category": "artistic",
+        "description": "Explore drawing, painting, and creative techniques",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Theater Club": {
+        "category": "artistic",
+        "description": "Practice performance, storytelling, and stagecraft",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Debate Society": {
+        "category": "intellectual",
+        "description": "Discuss ideas and develop persuasive argument skills",
+        "schedule": "Fridays, 3:00 PM - 4:30 PM",
+        "max_participants": 14,
+        "participants": []
+    },
+    "Science Olympiad": {
+        "category": "intellectual",
+        "description": "Explore scientific questions through experiments and challenges",
+        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+        "max_participants": 18,
+        "participants": []
     }
 }
 
